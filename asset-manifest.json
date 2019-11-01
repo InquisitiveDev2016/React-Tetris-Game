@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Tetris-Game/static/css/main.5df1b16c.chunk.css",
+    "main.js": "/React-Tetris-Game/static/js/main.b9fe2c97.chunk.js",
+    "main.js.map": "/React-Tetris-Game/static/js/main.b9fe2c97.chunk.js.map",
+    "runtime-main.js": "/React-Tetris-Game/static/js/runtime-main.fddf886a.js",
+    "runtime-main.js.map": "/React-Tetris-Game/static/js/runtime-main.fddf886a.js.map",
+    "static/js/2.4ae1bac8.chunk.js": "/React-Tetris-Game/static/js/2.4ae1bac8.chunk.js",
+    "static/js/2.4ae1bac8.chunk.js.map": "/React-Tetris-Game/static/js/2.4ae1bac8.chunk.js.map",
+    "index.html": "/React-Tetris-Game/index.html",
+    "precache-manifest.b8bef3caef7ef1188a0e50f0b51ea625.js": "/React-Tetris-Game/precache-manifest.b8bef3caef7ef1188a0e50f0b51ea625.js",
+    "service-worker.js": "/React-Tetris-Game/service-worker.js",
+    "static/css/main.5df1b16c.chunk.css.map": "/React-Tetris-Game/static/css/main.5df1b16c.chunk.css.map",
+    "static/media/index.css": "/React-Tetris-Game/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/React-Tetris-Game/static/media/bg.2810fe6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddf886a.js",
+    "static/js/2.4ae1bac8.chunk.js",
+    "static/css/main.5df1b16c.chunk.css",
+    "static/js/main.b9fe2c97.chunk.js"
+  ]
+}
