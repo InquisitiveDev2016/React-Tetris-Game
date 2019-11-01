@@ -1,4 +1,4 @@
-TETRIS GAME LINK: https://inquisitivedev2016.github.io/React-Tetris-Game/
+<strong>TETRIS GAME LINK: </strong> https://inquisitivedev2016.github.io/React-Tetris-Game/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
