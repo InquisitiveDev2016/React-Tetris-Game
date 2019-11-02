@@ -2,7 +2,7 @@
 
 This project was created as a tutorial from freeCodeCamp and weibenfalk to learn react hooks, the
 original tutorial video and github repo is cited here: <br>
-https://www.youtube.com/watch?v=ZGOaCxX8HIU
+https://www.youtube.com/watch?v=ZGOaCxX8HIU <br>
 https://github.com/weibenfalk/react-tetris-starter-files
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
