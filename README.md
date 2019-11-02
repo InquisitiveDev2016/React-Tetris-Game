@@ -1,5 +1,10 @@
 <strong>TETRIS GAME LINK: </strong> https://inquisitivedev2016.github.io/React-Tetris-Game/
 
+This project was created as a tutorial from freeCodeCamp and weibenfalk to learn react hooks, the
+original tutorial video and github repo is cited here:
+https://www.youtube.com/watch?v=ZGOaCxX8HIU
+https://github.com/weibenfalk/react-tetris-starter-files
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
